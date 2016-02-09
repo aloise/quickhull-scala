@@ -1,0 +1,2 @@
+# quickhull-scala
+Quickhull algorithm 
